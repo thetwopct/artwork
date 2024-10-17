@@ -3585,57 +3585,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/openfga/horizontal/color/openfga-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/openfga-stacked-color.png" width="95"></td>
         <td><img src="/projects/openfga/icon/color/openfga-icon-color.png" width="75"></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/openfga/horizontal/color/openfga-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/openfga-stacked-color.svg" width="95"></td>
         <td><img src="/projects/openfga/icon/color/openfga-icon-color.svg" width="75"></td>
     </tr>
-   <tr>
+    <tr>
         <th>black</th>
-        <td><img src="/projects/openfga/horizontal/color/black/openfga-horizontal-color_black.png" width="200"></td>
-        <td><img src="/projects/openfga/stacked/color/black/openfga-stacked-color_black.png" width="95"></td>
-        <td></td>
-        <td><img src="/projects/openfga/horizontal/color/black/openfga-horizontal-color_black.svg" width="200"></td>
-        <td><img src="/projects/openfga/stacked/color/black/openfga-stacked-color_black.svg" width="95"></td>
-        <td></td>
+        <td><img src="/projects/openfga/horizontal/black/openfga-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/black/openfga-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openfga/icon/black/openfga-icon-black.png" width="75"></td>
+        <td><img src="/projects/openfga/horizontal/black/openfga-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/black/openfga-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openfga/icon/black/openfga-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/openfga/horizontal/color/white/openfga-horizontal-color_white.png" width="200"></td>
-        <td><img src="/projects/openfga/stacked/color/white/openfga-stacked-color_white.png" width="95"></td>
-        <td></td>
-        <td><img src="/projects/openfga/horizontal/color/white/openfga-horizontal-color_white.svg" width="200"></td>
-        <td><img src="/projects/openfga/stacked/color/white/openfga-stacked-color_white.svg" width="95"></td>
-        <td></td>
-    </tr>
-     <tr>
-        <th>monochrome black</th>
-        <td><img src="/projects/openfga/horizontal/monochrome/black/openfga-horizontal-monochrome_black.png" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/black/openfga-stacked-monochrome_black.png" width="95"></td>
-        <td><img src="/projects/openfga/icon/monochrome/black/openfga-icon-monochrome_black.png" width="75"></td>
-        <td><img src="/projects/openfga/horizontal/monochrome/black/openfga-horizontal-monochrome_black.svg" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/black/openfga-stacked-monochrome_black.svg" width="95"></td>
-        <td><img src="/projects/openfga/icon/monochrome/black/openfga-icon-monochrome_black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>inverse</th>
-        <td><img src="/projects/openfga/horizontal/monochrome/inverse/openfga-horizontal-monochrome_inverse.png" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/inverse/openfga-stacked-monochrome_inverse.png" width="95"></td>
-        <td><img src="/projects/openfga/icon/monochrome/inverse/openfga-icon-monochrome_inverse.png" width="75"></td>
-        <td><img src="/projects/openfga/horizontal/monochrome/inverse/openfga-horizontal-monochrome_inverse.svg" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/inverse/openfga-stacked-monochrome_inverse.svg" width="95"></td>
-        <td><img src="/projects/openfga/icon/monochrome/inverse/openfga-icon-monochrome_inverse.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>monochrome white</th>
-        <td><img src="/projects/openfga/horizontal/monochrome/white/openfga-horizontal-monochrome_white.png" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/white/openfga-stacked-monochrome_white.png" width="95"></td>
-        <td></td>
-        <td><img src="/projects/openfga/horizontal/monochrome/white/openfga-horizontal-monochrome_white.svg" width="200"></td>
-        <td><img src="/projects/openfga/stacked/monochrome/white/openfga-stacked-monochrome_white.svg" width="95"></td>
-        <td></td>
+        <td><img src="/projects/openfga/horizontal/white/openfga-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/white/openfga-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openfga/icon/white/openfga-icon-white.png" width="75"></td>
+        <td><img src="/projects/openfga/horizontal/white/openfga-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/white/openfga-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openfga/icon/white/openfga-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
