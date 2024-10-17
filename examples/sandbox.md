@@ -4766,23 +4766,14 @@
         <th>stacked</th>
         <th>icon</th>
     </tr>
-    <tr>
-        <th>color-light</th>
-        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.png" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.png" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.png" width="75"></td>
-        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.svg" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
-    </tr>
      <tr>
-        <th>color-dark</th>
-        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
-        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.svg" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
+        <th>color</th>
+        <td><img src="/projects/tinkerbell/horizontal/color/tinkerbell-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color/tinkerbell-stacked-color.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color/tinkerbell-icon-color.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color/tinkerbell-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color/tinkerbell-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color/tinkerbell-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
@@ -4792,6 +4783,15 @@
         <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/tinkerbell/stacked/white/tinkerbell-stacked-white.svg" width="95"></td>
         <td><img src="/projects/tinkerbell/icon/white/tinkerbell-icon-white.svg" width="75"></td>
+    </tr>
+	<tr>
+        <th>color-light</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
     </tr>
 </table>
 
