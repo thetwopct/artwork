@@ -1378,22 +1378,13 @@
         <th>icon</th>
     </tr>
     <tr>
-        <th>color-dark</th>
-        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colordark.png" width="200"></td>
+        <th>color</th>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-color.png" width="200"></td>
         <td><img src="/projects/hwameistor/stacked/color/hwmeistor-stacked-color.png" width="95"></td>
         <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color.png" width="75"></td>
-        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-color.png" width="200"></td>
         <td><img src="/projects/hwameistor/stacked/color/hwmeistor-stacked-color.svg" width="95"></td>
         <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>color-light</th>
-        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colorlight.png" width="200"></td>
-        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-colorlight.png" width="95"></td>
-        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-colorlight.png" width="75"></td>
-        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colorlight.svg" width="200"></td>
-        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-colorlight.svg" width="95"></td>
-        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-colorlight.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
@@ -1412,6 +1403,15 @@
         <td><img src="/projects/hwameistor/horizontal/white/hwameistor-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/hwameistor/stacked/white/hwameistor-stacked-white.svg" width="95"></td>
         <td><img src="/projects/hwameistor/icon/white/hwameistor-icon-white.svg" width="75"></td>
+    </tr>
+	<tr>
+        <th>color-light</th>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color-light.svg" width="75"></td>
     </tr>
 </table>
 
