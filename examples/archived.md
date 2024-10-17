@@ -51,6 +51,54 @@
     </tr>
 </table>
 
+#### Curiefense Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/curiefense/horizontal/color/curiefense-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/color/curiefense-stacked-color.png" width="95"></td>
+        <td><img src="/archived/curiefense/icon/color/curiefense-icon-color.png" width="75"></td>
+        <td><img src="/archived/curiefense/horizontal/color/curiefense-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/color/curiefense-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/curiefense/icon/color/curiefense-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/curiefense/horizontal/black/curiefense-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/black/curiefense-stacked-black.png" width="95"></td>
+        <td><img src="/archived/curiefense/icon/black/curiefense-icon-black.png" width="75"></td>
+        <td><img src="/archived/curiefense/horizontal/black/curiefense-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/black/curiefense-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/curiefense/icon/black/curiefense-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/curiefense/horizontal/white/curiefense-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/white/curiefense-stacked-white.png" width="95"></td>
+        <td><img src="/archived/curiefense/icon/white/curiefense-icon-white.png" width="75"></td>
+        <td><img src="/archived/curiefense/horizontal/white/curiefense-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/curiefense/stacked/white/curiefense-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/curiefense/icon/white/curiefense-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 #### Krustlet Logos
 
@@ -198,6 +246,55 @@
     </tr>
 </table>
 
+#### OpenMetrics Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/openmetrics/horizontal/color/openmetrics-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/color/openmetrics-stacked-color.png" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/color/openmetrics-icon-color.png" width="75"></td>
+        <td><img src="/archived/openmetrics/horizontal/color/openmetrics-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/color/openmetrics-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/color/openmetrics-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/openmetrics/horizontal/black/openmetrics-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/black/openmetrics-stacked-black.png" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/black/openmetrics-icon-black.png" width="75"></td>
+        <td><img src="/archived/openmetrics/horizontal/black/openmetrics-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/black/openmetrics-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/black/openmetrics-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/openmetrics/horizontal/white/openmetrics-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/white/openmetrics-stacked-white.png" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/white/openmetrics-icon-white.png" width="75"></td>
+        <td><img src="/archived/openmetrics/horizontal/white/openmetrics-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/openmetrics/stacked/white/openmetrics-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/openmetrics/icon/white/openmetrics-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### OpenTracing Logos
 
 <table>
@@ -311,58 +408,56 @@
     <tr>
         <th></th>
         <th>horiz</th>
-	<th>stackedtext</th>
+		<th>stackedtext</th>
         <th>stacked</th>
-  	<th>smi</th>
+  		<th>smi</th>
         <th>icon</th>
         <th>horiz</th>
-	<th>stackedtext</th>
+		<th>stackedtext</th>
         <th>stacked</th>
-  	<th>smi</th>
+  		<th>smi</th>
         <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/archived/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.png" width="200"></td>
-	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.png" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.png" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.png" width="95"></td>
-	<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.png" width="95"></td>
+		<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.png" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/color/servicemeshinterface-icon-color.png" width="75"></td>
         <td><img src="/archived/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.svg" width="200"></td>
-	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.svg" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.svg" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.svg" width="95"></td>
- 	<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.svg" width="95"></td>
+ 		<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.svg" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/archived/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.png" width="200"></td>
-	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.png" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.png" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.png" width="95"></td>
-	<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.png" width="95"></td>
+		<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.png" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/black/servicemeshinterface-icon-black.png" width="75"></td>
         <td><img src="/archived/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.svg" width="200"></td>
-<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.svg" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.svg" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.svg" width="95"></td>
-	<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.svg" width="95"></td>
+		<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.svg" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/black/servicemeshinterface-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/archived/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.png" width="200"></td>
-	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.png" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.png" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.png" width="95"></td>
-	<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.png" width="95"></td>
+		<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.png" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/white/servicemeshinterface-icon-white.png" width="75"></td>
         <td><img src="/archived/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.svg" width="200"></td>
-<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
+		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.svg" width="95"></td>
-	<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.svg" width="95"></td>
+		<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.svg" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/white/servicemeshinterface-icon-white.svg" width="75"></td>
     </tr>
-    </table>
-
-
+</table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
