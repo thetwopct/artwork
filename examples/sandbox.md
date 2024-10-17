@@ -1167,48 +1167,6 @@
     </tr>
 </table>
 
-
-#### Fonio Logos
-
-<table>
-    <tr>
-        <th colspan="5"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/color/fonio-icon-color.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/color/fonio-icon-color.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/black/fonio-icon-black.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/black/fonio-icon-black.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/white/fonio-icon-white.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/white/fonio-icon-white.svg" width="150"></td>
-    </tr>
-</table>
-
 #### Headlamp Logos
 
 <table>
@@ -1973,47 +1931,6 @@
         <td><img src="/projects/koordinator/stacked/white/koordinator-stacked-white.svg" width="95"></td>
         <td><img src="/projects/koordinator/icon/white/koordinator-icon-white.svg" width="75"></td>
     </tr>
-</table>
-
-#### Krator Logos
-
-<table>
-    <tr>
-      <th colspan="5"></th>
-                </tr>
-                <tr>
-                    <th></th>
-                    <th colspan="2">PNG</th>
-                    <th colspan="2">SVG</th>
-                </tr>
-                <tr>
-                    <th></th>
-                    <th>stacked</th>
-                    <th>icon</th>
-                    <th>stacked</th>
-                    <th>icon</th>
-                </tr>
-                <tr>
-                    <th>color</th>
-                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/color/krator-icon-color.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/color/krator-icon-color.svg" width="150"></td>
-                </tr>
-                <tr>
-                    <th>black</th>
-                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/black/krator-icon-black.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/black/krator-icon-black.svg" width="150"></td>
-                </tr>
-                <tr>
-                    <th>white</th>
-                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/white/krator-icon-white.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/white/krator-icon-white.svg" width="150"></td>
-                </tr>
 </table>
 
 #### Krkn Logos
