@@ -2439,12 +2439,12 @@
     </tr>
     <tr>
         <th>color-light</th>
-        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colorlight.png" width="200"></td>
-        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colorlight.png" width="95"></td>
-        <td><img src="/projects/kubean/icon/color/kubean-icon-colorlight.png" width="75"></td>
-        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colorlight.svg" width="200"></td>
-        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colorlight.svg" width="95"></td>
-        <td><img src="/projects/kubean/icon/color/kubean-icon-colorlight.svg" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-color-light.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
@@ -3028,12 +3028,12 @@
     </tr>
     <tr>
         <th>color-light</th>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.png" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.png" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.png" width="75"></td>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.svg" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.svg" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.svg" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color-light.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
@@ -4529,12 +4529,12 @@
     </tr>
     <tr>
         <th>color-light</th>
-        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colorlight.png" width="200"></td>
-        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-colorlight.png" width="95"></td>
-        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-colorlight.png" width="75"></td>
-        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colorlight.svg" width="200"></td>
-        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-colorlight.svg" width="95"></td>
-        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-colorlight.svg" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-color-light.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
