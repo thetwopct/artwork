@@ -2773,30 +2773,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubewarden/horizontal/color/kubewarden.logo-hrztl_color.png" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/color/kubewarden.logo_color.png" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/color/kubewarden.icon.png" width="75"></td>
-        <td><img src="/projects/kubewarden/horizontal/color/kubewarden.logo-hrztl_color.svg" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/color/kubewarden.logo_color.svg" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/color/kubewarden.icon.svg" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/color/kubewarden-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/color/kubewarden-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/color/kubewarden-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/color/kubewarden-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/color/kubewarden-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/color/kubewarden-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kubewarden/horizontal/black/kubewarden.logo-hrztl_black.png" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/black/kubewarden.logo_black.png" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/black/kubewarden.icon_black.png" width="75"></td>
-        <td><img src="/projects/kubewarden/horizontal/black/kubewarden.logo-hrztl_black.svg" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/black/kubewarden.logo_black.svg" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/black/kubewarden.icon_black.svg" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/black/kubewarden-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/black/kubewarden-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/black/kubewarden-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/black/kubewarden-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/black/kubewarden-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/black/kubewarden-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubewarden/horizontal/white/kubewarden.logo-hrztl_white.inversed.png" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/white/kubewarden.logo_white.inversed.png" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/white/kubewarden.icon_inversed.png" width="75"></td>
-        <td><img src="/projects/kubewarden/horizontal/white/kubewarden.logo-hrztl_white.inversed.svg" width="200"></td>
-        <td><img src="/projects/kubewarden/stacked/white/kubewarden.logo_white.inversed.svg" width="95"></td>
-        <td><img src="/projects/kubewarden/icon/white/kubewarden.icon_inversed.svg" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/white/kubewarden-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/white/kubewarden-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/white/kubewarden-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/white/kubewarden-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/white/kubewarden-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/white/kubewarden-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
