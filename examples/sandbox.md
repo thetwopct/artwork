@@ -5007,30 +5007,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.svg" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud-stacked-color.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud-icon-color.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.svg" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud-stacked-black.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/black/wasmcloud-icon-black.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/black/wasmcloud-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_color.inversed.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_white.inversed.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.svg" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud-stacked-white.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/white/wasmcloud-icon-white.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/white/wasmcloud-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
