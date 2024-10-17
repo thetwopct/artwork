@@ -3487,30 +3487,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.svg" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/color/opencost-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/opencost/stacked/color/opencost-stacked-color.png" width="95"></td>
+        <td><img src="/projects/opencost/icon/color/opencost-icon-color.png" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/color/opencost-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/opencost/stacked/color/opencost-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/opencost/icon/color/opencost-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/opencost/horizontal/black/Opencost_Horizontal_Black.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/black/Opencost_Stacked_Black.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/black/Opencost_Icon_Black.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/black/Opencost_Horizontal_Black.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/black/Opencost_Stacked_Black.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/black/Opencost_Icon_Black.svg" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/black/opencost-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/opencost/stacked/black/opencost-stacked-black.png" width="95"></td>
+        <td><img src="/projects/opencost/icon/black/opencost-icon-black.png" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/black/opencost-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/opencost/stacked/black/opencost-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/opencost/icon/black/opencost-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/opencost/horizontal/white/Opencost_Horizontal_White.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/white/Opencost_Stacked_White.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/white/Opencost_Horizontal_White.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/white/Opencost_Stacked_White.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.svg" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/white/opencost-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/opencost/stacked/white/opencost-stacked-white.png" width="95"></td>
+        <td><img src="/projects/opencost/icon/white/opencost-icon-white.png" width="75"></td>
+        <td><img src="/projects/opencost/horizontal/white/opencost-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/opencost/stacked/white/opencost-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/opencost/icon/white/opencost-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
