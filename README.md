@@ -144,7 +144,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Open Cluster Management](examples/sandbox.md#open-cluster-management-logos)
   * [Open Policy Containers (OPCR)](examples/sandbox.md#open-policy-containers-logos)
   * [OpenCost](examples/sandbox.md#opencost-logos)
-  * [OpenEBS](examples/sandbox.md#openebs-logos)
   * [OpenFGA](examples/sandbox.md#openfga-logos)
   * [OpenFunction](examples/sandbox.md#openfunction-logos)
   * [OpenGitOps](examples/sandbox.md#opengitops-logos)
@@ -215,11 +214,11 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 * [Archived Projects](examples/archived.md)
   * [Brigade](examples/archived.md#brigade-logos)
   * [Krustlet](examples/archived.md#ckrustlet-logos)
+  * [OpenEBS](examples/archived.md#openebs-logos)
   * [Open Service Mesh](examples/archived.md#open-service-mesh-logos)
   * [OpenTracing](examples/archived.md#opentracing-logos)
   * [rkt](examples/archived.md#rkt-logos)
   * [Service Mesh Interface](examples/archived.md#service-mesh-interface-logos)
-
 
 ## CNCF Brand Guidelines
 
